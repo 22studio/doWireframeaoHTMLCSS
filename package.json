@@ -1,0 +1,13 @@
+{
+  "name": "aula01_login",
+  "version": "1.0.0",
+  "description": "Primeira aula do curso de criação de interfaces para dashboard - login",
+  "main": "index.js",
+  "author": "werdeson - 22 studio web",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
